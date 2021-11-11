@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in 3D on the web
 - 🌱 I’m currently learning Three.js
-- 💞️ I’m looking to collaborate on 3D/VR web games
+- 💞️ I’m looking to collaborate on 3D/VR games
 
 <!---
 mrjasonweaver/mrjasonweaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
