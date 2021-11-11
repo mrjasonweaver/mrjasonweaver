@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason
-- 👀 I’m interested in 3D in the browser
+- 👀 I’m interested in 3D on the web
 - 🌱 I’m currently learning Three.js
 - 💞️ I’m looking to collaborate on 3D web games
 
