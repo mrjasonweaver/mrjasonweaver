@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m Jason
-- 👀 I’m interested in [3D on the web](https://jasonweaver.name/tag/3d/)
-- 🌱 I’m currently [learning Three.js](https://jasonweaver.name/tag/three-js/)
-- 💞️ I’m looking to collaborate on WebGL and WebXR games
+I’m a Front End Engineer working with WordPress, WooCommerce, and React at [Universal Yums](https://www.universalyums.com/)
 
 <!---
 mrjasonweaver/mrjasonweaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
