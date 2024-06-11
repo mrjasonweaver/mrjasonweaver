@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Jason
-I’m a Frontend Engineer working with WordPress, WooCommerce, and React at [Universal Yums](https://www.universalyums.com/).
+I’m a Senior Frontend Engineer specializing in React.
 
 <!---
 mrjasonweaver/mrjasonweaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
