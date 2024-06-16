@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Jason
-I’m a Senior Frontend Engineer specializing in React.
+I’m a Senior Frontend Engineer from Austin, Texas.
 
 <!---
 mrjasonweaver/mrjasonweaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
